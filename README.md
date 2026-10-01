@@ -45,4 +45,3 @@ Após baixar, basta copiar o script para a raiz do diretório e executá-lo.
 
 ## Bugs e sugestões
 Como este é um repositório em construção, é possível que você encontre algum bug ou tenha alguma sugestão de melhoria. Neste caso, por favor, entre em contato com os monitores ou professores da disciplina.
-# Teste de Commit
